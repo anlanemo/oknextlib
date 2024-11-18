@@ -1,4 +1,4 @@
-name: Build ok
+name: Build 18
 
 on:
   workflow_dispatch:
